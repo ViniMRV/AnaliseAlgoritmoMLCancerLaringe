@@ -1,0 +1,69 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+495,p,1998-04-01,"Reinke-Ödem beids., re > li; beginnendes Krankheitsbild",142,1944-01-07,w,Reinke Ödem
+564,p,1998-04-29,"Reinke-Ödem li, Rezidiv, Zustand nach OP; sehr unregelmäßige Stimmlippenschwingungen",1381,1951-06-18,w,Reinke Ödem
+627,p,1998-05-06,"Links mit Kompensation; Reinke-Ödem beidseitig, relativ ausgeprägt",1383,1953-03-01,w,Reinke Ödem
+630,p,1998-05-06,Beidseitiges Reinke-Ödem,1386,1933-08-24,w,Reinke Ödem
+632,p,1998-05-06,"Doppelseitige nach Strumektomie + Reinke- Ödem beidseitig, Stridor!",1389,1941-10-06,w,Reinke Ödem
+720,p,1998-05-27,"Zustand nach Abtragung eines großen Reinke-Ödems + Stimmlippenpolyp, etwas unregelmäßiger Verlauf",1412,1929-12-06,w,Reinke Ödem
+821,p,1998-06-24,Zustand nach Stütze bei rezidivierendem Reinke-Ödem ,1433,1941-07-17,m,Reinke Ödem
+886,p,1998-07-22,"Beidseitig ausgeprägt, Flatterschwingungen",1480,1948-01-05,w,Reinke Ödem
+889,p,1998-07-22,Rückläufig ,1340,1939-05-18,w,Reinke Ödem
+901,p,1998-09-02,Verdacht auf spasmodische Dysphonie mit beidseitigem Reinke-Ödem ,1494,1950-09-08,w,Reinke Ödem
+1045,p,1998-11-11,"Zustand nach Abtragung, beidseitig vor etwa 14 Tagen, noch schwere Dysphonie",1541,1964-03-15,w,Reinke Ödem
+1046,p,1998-11-11,"Beidseitiges Reinke-Ödem, chronische  Laryngitis",1542,1951-08-24,w,Reinke Ödem
+1056,p,1998-11-18,"Zustand nach Stütze, leichte Rötung und Schwellung, sehr unregelmäßiges Schwingungsbild ",1541,1964-03-15,w,Reinke Ödem
+1090,p,1998-11-25,Zustand nach Abtragung ,1340,1939-05-18,w,Reinke Ödem
+1206,p,1999-01-13,Rec.par. links und Reinke-Ödem beidseitig ,1386,1933-08-24,w,Reinke Ödem
+1221,p,1999-01-20,"Zustand nach Abtragung eines Reinke-Ödems, leicht exkavierte Stimmlippe ",1550,1966-01-22,w,Reinke Ödem
+1229,p,1999-01-27,"Beidseitig, Dysphonie",1617,1961-06-08,w,Reinke Ödem
+1253,p,1999-02-24,Beidseitig mit tiefer Stimmlage,1639,1956-02-06,w,Reinke Ödem
+1274,p,1999-03-17,"Chronisch hyperplastisch, beidseitiges Reinke-Ödem ",1617,1961-06-08,w,Reinke Ödem
+1382,p,1999-05-26,"Alte links, beidseitiges Reinke-Ödem",1733,1950-07-11,w,Reinke Ödem
+1436,p,1999-08-18,"Chronische, Zustand nach Abtragung des Ödems, zudem alte Rekurrensparese links",1785,1934-04-12,w,Reinke Ödem
+1447,p,1999-08-25,"Chronische, hyperplastisch, Rückbildung des Ödems, Verlaufskontrolle, Vorbefunde vorhanden",1617,1961-06-08,w,Reinke Ödem
+1453,p,1999-09-08,Beidseitiges Ödem mit hyperfunktioneller unvollständiger Kompensation,1801,1946-10-18,w,Reinke Ödem
+1462,p,1999-09-15,Beidseitig,1808,1956-04-24,w,Reinke Ödem
+1500,p,1999-11-24,Zustand nach Abtragung ,1846,1926-10-29,w,Reinke Ödem
+1563,p,1999-12-15,Rezidiv links ; Prä-OP,1733,1950-07-11,w,Reinke Ödem
+1572,p,2000-01-05,"Rechts, Zustand nach Abtragung, sehr unregelmäßige Konfiguration, alte Rec.par. links",1879,1941-08-08,m,Reinke Ödem
+1610,p,2000-02-09,"Beidseitig, beginnend, Laryngitis chronisch",1910,1955-07-15,w,Reinke Ödem
+1656,p,2000-04-05,"Beidseitig, gering ausgeprägt mit unregelmäßigem Schwingungsbild",1955,1956-04-16,w,Reinke Ödem
+1667,p,2000-04-12,"Beiseitig, sehr ausgeprägt mit unregelmäßigen Flatterschwingungen ; prä OP",1966,1946-11-06,w,Reinke Ödem
+1717,p,2000-06-07,"Beidseitig, ausgeprägte Dysphonie, R1, H2,    B0",2001,1938-06-27,w,Reinke Ödem
+1721,p,2000-06-07,Zustand nach Abtragung,1475,1941-06-19,w,Reinke Ödem
+1778,p,2000-08-09,Zusand nach Abtragung,1966,1946-11-06,w,Reinke Ödem
+1811,p,2000-10-25,"Zustand nach Abtragung mit beidseitig ausgeprägtem starrem Schwingungsbild, event. Laryngitis, hyperfunktionelle Komponente",2078,1928-11-02,w,Reinke Ödem
+1828,p,2000-11-22,"Zustand nach Abtragung mit starren Stimmlippen und fast strob. Stillstand ; 28. Aug. OP, 2. Aufnahme nach Abtragung",2078,1928-11-02,w,Reinke Ödem
+1889,p,2000-12-13,"Links, prä OP",2114,1951-08-24,w,Reinke Ödem
+1890,p,2000-12-13,"Zustand nach zweimaliger Abtragung des Polypen; jetzt Reinke-Ödem li, eventuell Polyp re",2115,1958-07-01,w,Reinke Ödem
+1941,p,2001-02-07,Intraepithelisch,2153,1933-11-27,w,Reinke Ödem
+1946,p,2001-02-07,"Zustand nach Abtragung, OP am 28.08.00",2078,1928-11-02,w,Reinke Ödem
+1963,p,2001-03-07,Zustand nach Abtragung mit noch asymmetrischem Schwingungsbild,2172,1935-06-05,m,Reinke Ödem
+2031,p,2001-05-30,Zustand nach Abtragung im Aug. 00,2078,1928-11-02,w,Reinke Ödem
+2089,p,2001-08-22,Ausgeprägte Form des Reinke-Ödems re mit Flatterschwingungen,2278,1938-03-06,m,Reinke Ödem
+2098,p,2001-08-29,Beginnende Form,2281,1939-11-29,w,Reinke Ödem
+2110,p,2001-09-12,"Laryngitis ist chronisch mit bds. beginnendem Reinke-Ödem, Nikotinabusus",2299,1924-01-26,w,Reinke Ödem
+2112,p,2001-09-12,,2301,1961-06-11,w,Reinke Ödem
+2118,p,2001-09-19,"Organisch-funktionelle Dysphonie, ponogene Belastung",2303,1957-03-02,w,Reinke Ödem
+2161,p,2001-11-21,Ausgeprägte Form beidseitig mit stark vertiefter mittlerer Sprechstimmlage vor OP,2358,1959-06-21,w,Reinke Ödem
+2188,p,2001-12-05,Zustand nach Abtragung mit Restödem re,2358,1959-06-21,w,Reinke Ödem
+2193,p,2001-12-12,Beidseitig mäßiggradig mit funktioneller Komponente,2371,1948-10-31,w,Reinke Ödem
+2211,p,2001-12-19,Zustand nach Abtragung,2358,1959-06-21,w,Reinke Ödem
+2271,p,2002-02-06,Zustand nach Abtragung,2078,1928-11-02,w,Reinke Ödem
+2305,p,2002-03-06,Chronisch hyperplastische Laryngitis mit beids. Reinke-Ödem,2439,1935-04-05,m,Reinke Ödem
+2333,p,2002-05-08,"Funktionelle Dysphonie, Zustand nach Reinke-Ödem-Abtragung",2467,1970-12-27,w,Reinke Ödem
+2344,p,2002-05-15,Zustand nach Abtragung,2478,1949-07-23,m,Reinke Ödem
+2345,p,2002-05-15,Links,2479,1957-01-15,w,Reinke Ödem
+2358,p,2002-06-12,Zustand nach Abtragung,2420,1928-08-29,w,Reinke Ödem
+2375,p,2002-08-07,"Zustand nach Ödemabtragung, rezidiv beidseitig",2509,1950-06-10,w,Reinke Ödem
+2381,p,2002-08-07,Zustand nach Ödemabtragung,2515,1954-12-14,w,Reinke Ödem
+2411,p,2002-09-18,"Zustand nach Abtragung, Restdysphonie",2545,1943-04-14,w,Reinke Ödem
+2426,p,2002-10-02,Beidseitig,2560,1957-05-05,w,Reinke Ödem
+2449,p,2002-11-20,Zustand nach Abtragung,2583,1937-04-06,w,Reinke Ödem
+2491,p,2003-06-04,Zustand nach Abtragung; kompensierte Parese rechts,2001,1938-06-27,w,Reinke Ödem
+2518,p,2003-11-12,,2434,1939-01-21,w,Reinke Ödem
+2573,p,2004-03-10,Mäßige Form,2707,1942-01-26,w,Reinke Ödem
+2588,p,2004-04-21,"Chronische Form der Laryngitis, Ödem rechts",2722,1958-12-01,w,Reinke Ödem
+2591,p,2004-04-21,Zustand nach Abtragung,2725,1962-11-06,w,Reinke Ödem
+2594,p,2004-04-28,Leichte Hyperfunktion,2333,1943-01-21,m,Reinke Ödem
+2595,p,2004-04-28,"Zustand nach Ödemabtragung, Komplikation: Zungengrundschwellung",2335,1960-11-11,w,Reinke Ödem

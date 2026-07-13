@@ -1,0 +1,4 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+723,p,1998-05-27,"""Kontaktpachydermie ohne Kontaktpachydermie"" nach Strumektomie",1416,1961-01-28,m,N. laryngeus superior Neuralgie
+1928,p,2001-01-24,Leicht funktionelle Dysphonie,2142,1965-06-13,w,N. laryngeus superior Neuralgie
+2423,p,2002-10-02,,2557,1946-11-20,w,N. laryngeus superior Neuralgie

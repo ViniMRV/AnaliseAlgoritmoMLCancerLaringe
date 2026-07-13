@@ -1,0 +1,36 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+815,p,1998-06-10,"Zustand nach frontolateraler Teilresektion, hohe mittlere Sprechstimmlage",1427,1941-05-10,m,Frontolaterale Teilresektion
+891,p,1998-08-26,"Zustand nach Hemilaryngektomie mit mäßiger Dysphonie, leichte supraglottale Kompensation ",1485,1931-08-14,m,Frontolaterale Teilresektion
+936,p,1998-10-14,"Zustand nach Hemilaryngektomie, unvollständige Kompensation ",1485,1931-08-14,m,Frontolaterale Teilresektion
+1162,p,1998-12-09,Zustand nach frontolateraler Teilresektion und Synechieabtrennung mit ausgeprägten Fibrinbelägen,1579,1933-05-24,m,Frontolaterale Teilresektion
+1165,p,1998-12-09,"Zustand danach, mit sehr schmalem Ersatzstimmband und hyperfunktioneller Komponente ",1427,1941-05-10,m,Frontolaterale Teilresektion
+1191,p,1998-12-16,Zustand danach ,1485,1931-08-14,m,Frontolaterale Teilresektion
+1232,p,1999-01-27,Dysphonie bei Zustand danach ,1485,1931-08-14,m,Frontolaterale Teilresektion
+1234,p,1999-02-03,"Vor OP bei Verdacht auf Tumor in der vorderen Kommissur, subglottisch im vorderen Anteil, phonatorischer Stillstand ",1620,1940-03-19,m,Frontolaterale Teilresektion
+1238,p,1999-02-05,Aufnahme 6 nach OP,1485,1931-08-14,m,Frontolaterale Teilresektion
+1243,p,1999-02-17,"Zustand danach, rechts mit ausgeprägter Vernarbung Am 14.08.99 eine T1-Ca OP;  MDVP signal not voiced",1497,1936-12-08,m,Frontolaterale Teilresektion
+1267,p,1999-03-10,"Zustand 10 Tage danach, links ; Zweitaufnahme, erste Aufnahme nach OP",1633,1956-07-13,m,Frontolaterale Teilresektion
+1279,p,1999-03-17,"Zustand danach, mit breiter Synechie, glottische Insuffizienz Prä-OP am 03.02.99; Zweitaufnahme, erste Aufnahme nach OP,",1620,1940-03-19,m,Frontolaterale Teilresektion
+1313,p,1999-04-28,"Zustand danach, rechts",1620,1940-03-19,m,Frontolaterale Teilresektion
+1409,p,1999-06-16,Zustand danach ; 1. Aufnahme prä OP,1485,1931-08-14,m,Frontolaterale Teilresektion
+1446,p,1999-08-25,"Zustand danach, erhöhte mittlere Sprechstimmlage, OP Mai 1999",1427,1941-05-10,m,Frontolaterale Teilresektion
+1487,p,1999-11-03,Zustand danach mit plastischer Ersatzstimmlippe ,1768,1940-04-13,m,Frontolaterale Teilresektion
+1490,p,1999-11-10,"Zustand danach; 3. Aufnahme, 2. Aufnahme 24.08.99, 1. Aufnahme prä OP am 24.02.99 (OP am 01.03.99)",1633,1956-07-13,m,Frontolaterale Teilresektion
+1558,p,1999-12-08,"Zustand danach, Ausräumung der zervikalen Halslymphknoten; glatte Heilung; kein Anhalt auf Rezidiv",1620,1940-03-19,m,Frontolaterale Teilresektion
+1561,p,1999-12-15,"Zustand danach, ca. eine Woche postoperativ, starke erhöhte mittlere Sprechstimmlage",1868,1950-04-14,m,Frontolaterale Teilresektion
+1634,p,2000-03-01,"Zustand danach, Granulationsabtragung im Interarybereich",1868,1950-04-14,m,Frontolaterale Teilresektion
+1635,p,2000-03-01,"Zustand danach, mit Ersatzstimmband, Verlaufskontrolle, hohe mittlere Sprechlage ",1427,1941-05-10,m,Frontolaterale Teilresektion
+1692,p,2000-05-24,"Zustand danach, mit supraglottischer Kompensation, kleine Granulome an den Stimmlippen und supraglottal",1991,1934-06-26,m,Frontolaterale Teilresektion
+1716,p,2000-06-07,Zustand danach; großer Stimmlippenpolyp bzw. Rezidiv li bei ausgeprägter Dysphonie,2000,1943-03-04,m,Frontolaterale Teilresektion
+1720,p,2000-06-07,Zustand nach Laserchirurgie mit kompensierender Taschenfaltenstimme,1998,1952-05-16,m,Frontolaterale Teilresektion
+1749,p,2000-06-21,"Zustand danach, jetzt großer Granulationspolyp li; 2. Aufnahme prä OP, OP am 23.06.00",2000,1943-03-04,m,Frontolaterale Teilresektion
+1756,p,2000-07-05,"Zustand danach, gepreßte Stimmgebung, R2 H2 B0 ",1868,1950-04-14,m,Frontolaterale Teilresektion
+1808,p,2000-10-18,Zustand danach; Patient stand zur longitudinalen Betrachtung zur Verfügung,1620,1940-03-19,m,Frontolaterale Teilresektion
+1913,p,2001-01-17,Zustand danach mit Leukoplakie re; OP am 22.02.01,2000,1943-03-04,m,Frontolaterale Teilresektion
+1949,p,2001-02-14,Zustand danach mit hyperfunktioneller Kompensation; bei Textproduktion supraglottale Angregung,1868,1950-04-14,m,Frontolaterale Teilresektion
+2011,p,2001-05-02,Zustand nach OP,1620,1940-03-19,m,Frontolaterale Teilresektion
+2131,p,2001-10-17,Zustand danach und nach mehreren Granulationsabtragungen,2000,1943-03-04,m,Frontolaterale Teilresektion
+2383,p,2002-08-14,Zustand danach,1868,1950-04-14,m,Frontolaterale Teilresektion
+2386,p,2002-08-14,Zustand danach,2520,1935-03-14,m,Frontolaterale Teilresektion
+2437,p,2002-11-06,"Zustand danach, Synechie",2360,1956-10-14,m,Frontolaterale Teilresektion
+2456,p,2002-12-04,Organisch; Zustand nach Resektion,2534,1936-09-23,m,Frontolaterale Teilresektion

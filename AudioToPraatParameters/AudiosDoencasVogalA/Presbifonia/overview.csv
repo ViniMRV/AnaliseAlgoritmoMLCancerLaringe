@@ -1,0 +1,41 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+148,p,1998-02-11,Vox senilis,73,1924-08-25,w,Vox senilis
+360,p,1998-03-11,"Beginnnende vox senilis, auffälliges voice onset",1347,1922-09-02,w,Vox senilis
+612,p,1998-05-05,Mit Petechien (Einblutungen) rechte  Stimmlippe,1387,1921-11-23,w,Vox senilis
+816,p,1998-06-10,Vox senilis,1428,1927-08-01,w,Vox senilis
+818,p,1998-06-10,"Multikausale Stimmstörung, Laryngitis, vox senilis, Schwerhörigkeit",1430,1926-04-29,m,Vox senilis
+826,p,1998-06-24,Leicht ödematöse Stimmlippen,1438,1919-07-14,w,Vox senilis
+846,p,1998-07-01,Subglottale Cyste,1445,1929-11-02,w,Vox senilis
+899,p,1998-09-02,Differentialdiagnose: eventuell alte Schädigung des Arygelenks rechts,1491,1913-08-27,m,Vox senilis
+933,p,1998-10-07,Stimmlippenvarizen links ,1525,1919-01-14,w,Vox senilis
+1039,p,1998-11-04,Zentrallaryngale Komponente,1535,1923-03-18,m,Vox senilis
+1159,p,1998-12-09,Leichte subglottische Einengung ,1445,1929-11-02,w,Vox senilis
+1197,p,1999-01-06,"Leichte Form, kein pathologischer Befund, hohe mittlere Sprechstimmlage",1594,1929-05-14,m,Vox senilis
+1203,p,1999-01-13,Leicht,1600,1937-12-20,w,Vox senilis
+1220,p,1999-01-20,Vox senilis,1608,1922-05-22,m,Vox senilis
+1268,p,1999-03-10,Mit Stimmschwäche,1656,1915-08-27,m,Vox senilis
+1338,p,1999-05-19,"Massive Form mit breiter Excavation, Subglottisches Chondrom",1720,1910-05-08,m,Vox senilis
+1478,p,1999-10-27,"Links, nach Strumektomie bei beginnender vox senilis",1826,1922-07-21,m,Vox senilis
+1636,p,2000-03-01,Dyskoordination,1936,1926-04-05,w,Vox senilis
+1694,p,2000-05-24,Funktionelle Dysphonie + Vox senilis,1993,1933-08-06,w,Vox senilis
+1772,p,2000-08-02,Dysarthrophonie mit zentral laryngaler Bewegungsstörung,2036,1923-02-15,w,Vox senilis
+1819,p,2000-11-08,Ohne Reflux,2084,1934-03-30,m,Vox senilis
+1971,p,2001-03-14,Intermediärschwäche,2180,1923-03-22,w,Vox senilis
+2003,p,2001-04-04,Laryngitis subglottisch,2212,1923-08-25,m,Vox senilis
+2055,p,2001-06-06,,2244,1919-09-21,m,Vox senilis
+2097,p,2001-08-29,Chron. Laryngitis,2283,1970-12-14,w,Vox senilis
+2110,p,2001-09-12,"Laryngitis ist chronisch mit bds. beginnendem Reinke-Ödem, Nikotinabusus",2299,1924-01-26,w,Vox senilis
+2121,p,2001-09-26,,2310,1932-09-16,w,Vox senilis
+2303,p,2002-03-06,Zustand nach Abtragung des Polyps,2420,1928-08-29,w,Vox senilis
+2307,p,2002-03-06,,2441,1926-03-24,w,Vox senilis
+2319,p,2002-03-13,Vox senilis,2453,1921-01-04,m,Vox senilis
+2377,p,2002-08-07,,2511,1935-03-16,m,Vox senilis
+2415,p,2002-09-18,,2549,1928-01-13,w,Vox senilis
+2421,p,2002-09-25,,2555,1915-02-13,w,Vox senilis
+2509,p,2003-10-29,,2643,1939-12-09,w,Vox senilis
+2515,p,2003-11-05,,2649,1928-08-27,w,Vox senilis
+2522,p,2003-11-12,,2656,1919-10-06,w,Vox senilis
+2564,p,2004-01-07,"Kompensiert, alte",2007,1942-03-06,w,Vox senilis
+2569,p,2004-03-03,"Zustand nach Strumektomie, keine Rekurrensparese",2703,1930-04-21,w,Vox senilis
+2596,p,2004-04-28,"Funktionelle Dysphonie, Vox senilis beginnend",2336,1940-02-02,w,Vox senilis
+2601,p,2004-05-05,,2727,1939-09-07,w,Vox senilis

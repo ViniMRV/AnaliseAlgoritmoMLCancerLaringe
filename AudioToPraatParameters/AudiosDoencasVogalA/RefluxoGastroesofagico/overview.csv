@@ -1,0 +1,4 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+1117,p,1998-12-02,Hypofunktionelle Dysphonie + GERD (gastro-oesophagaler Reflux),1567,1939-05-18,m,GERD
+1218,p,1999-01-20,"Z.B. verlängerte Schlußphase, beginnende Kontaktpachydermie (Gastrooesophagealer Reflux)",1604,1955-10-31,m,GERD
+1551,p,1999-12-08,"Kontaktpachydermie ohne ""Kontaktpachydermie""",1859,1941-10-19,m,GERD

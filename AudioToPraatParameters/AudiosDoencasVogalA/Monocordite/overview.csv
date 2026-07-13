@@ -1,0 +1,4 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+828,p,1998-06-24,"Chronisch hyperplastisch, Monochorditis rechts",1440,1948-04-23,w,Monochorditis
+2220,p,2002-01-02,Monochorditis links,2381,1934-06-07,m,Monochorditis
+2403,p,2002-09-04,"Akute Pachydermie li, Monochorditis li",2537,1931-09-22,m,Monochorditis

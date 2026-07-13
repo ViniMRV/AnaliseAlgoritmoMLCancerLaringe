@@ -1,0 +1,141 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+107,p,1998-01-21,Chronisch trockene Laryngitis mit Interaryschwellung,1304,1937-12-17,m,Laryngitis
+139,p,1998-02-04,Abklingende Laryngitis mit lediglich etwas asymmetrischer Amplitude,1318,1979-12-27,m,Laryngitis
+141,p,1998-02-04,"Abklingende Laryngitis, sehr enge Epiglottis",1320,1956-02-11,m,Laryngitis
+493,p,1998-04-01,Laryngitis,1365,1961-03-25,m,Laryngitis
+497,p,1998-04-22,Leukoplakie beidseitig bei chronischer Laryngitis,1368,1958-10-11,m,Laryngitis
+498,p,1998-04-22,"Chronische Laryngitis; beide Stimmlippen leicht ödematös, leichte Hyperfunktion",1369,1971-10-15,w,Laryngitis
+563,p,1998-04-29,Ausgebildete Gesangsstimme mit laryngitischem Ödem,1378,1969-08-07,m,Laryngitis
+568,p,1998-04-29,"Überlagerte Laryngitis, z. B. N. laryngeus superior Neuralgie",1379,1939-01-10,w,Laryngitis
+715,p,1998-05-20,"Chronische Laryngitis, Leukoplakie, Zustand nach Stütze (2x), vernarbtes rechtes Stimmband",1407,1934-09-11,w,Laryngitis
+818,p,1998-06-10,"Multikausale Stimmstörung, Laryngitis, vox senilis, Schwerhörigkeit",1430,1926-04-29,m,Laryngitis
+819,p,1998-06-10,Ausgeprägte Hyperfunktion mit laryngitischer Komponenete und Phonationsverdickung,1431,1960-02-17,w,Laryngitis
+824,p,1998-06-24,"Chronische Laryngitis, inkomplette Mutatio",1436,1981-07-06,m,Laryngitis
+828,p,1998-06-24,"Chronisch hyperplastisch, Monochorditis rechts",1440,1948-04-23,w,Laryngitis
+844,p,1998-07-01,"Bei kindlich jungendlicher Stimme, Mutatio? ",1443,1985-10-16,w,Laryngitis
+871,p,1998-07-15,Dysphonie bei abklingender Laryngitis,1467,1939-04-11,w,Laryngitis
+884,p,1998-07-22,"Ausgeprägt, mit beginnendem linkem phonatorischem Stillstand",1478,1926-09-24,m,Laryngitis
+886,p,1998-07-22,"Beidseitig ausgeprägt, Flatterschwingungen",1480,1948-01-05,w,Laryngitis
+902,p,1998-09-02,"Chronisch hyperplastisch mit ödematöser Schleimhaut und Leukoplakie links, kein phonatorischer Stillstand",1495,1929-12-01,m,Laryngitis
+904,p,1998-09-02,"Rückläufig, mäßige Dysphonie",1498,1949-09-24,m,Laryngitis
+910,p,1998-09-09,"Ohne ""Kontaktpachydermie"", mäßig dysplastischer Kehlkopf",1502,1958-01-01,m,Laryngitis
+918,p,1998-09-09,Chronisch hyperplastisch ,1495,1929-12-01,m,Laryngitis
+919,p,1998-09-16,Akute mit funktioneller Belastung,1511,1972-11-25,w,Laryngitis
+930,p,1998-10-07,Akute Laryngitis,1522,1976-09-19,m,Laryngitis
+931,p,1998-10-07,Ponogen,1523,1945-11-14,w,Laryngitis
+935,p,1998-10-14,"Ausgeprägt chronisch mit Leukoplakie, stark asymmetrisch verkürzte Amplituden",1527,1966-01-22,m,Laryngitis
+1046,p,1998-11-11,"Beidseitiges Reinke-Ödem, chronische  Laryngitis",1542,1951-08-24,w,Laryngitis
+1047,p,1998-11-11,"Chronische, Stimmlippen beidseitig frei",1543,1944-06-14,w,Laryngitis
+1119,p,1998-12-02,Mit ausgeprägter Dysphonie,1570,1936-07-06,w,Laryngitis
+1161,p,1998-12-09,"Chronische, ausgeprägt",1578,1965-11-19,m,Laryngitis
+1163,p,1998-12-09,"Chronische, Taschenfaltenstimme beginnt ",1495,1929-12-01,m,Laryngitis
+1188,p,1998-12-16,"Chronische, hyperplastisch, mit unregelmäßigem Schwingungsbild, kein Rezidiv bei Zustand nach Ploypabtragung",1587,1970-08-12,w,Laryngitis
+1192,p,1998-12-16,Deutliche Verbesserung ,1570,1936-07-06,w,Laryngitis
+1221,p,1999-01-20,"Zustand nach Abtragung eines Reinke-Ödems, leicht exkavierte Stimmlippe ",1550,1966-01-22,w,Laryngitis
+1228,p,1999-01-27,Chronische,1616,1951-03-29,w,Laryngitis
+1229,p,1999-01-27,"Beidseitig, Dysphonie",1617,1961-06-08,w,Laryngitis
+1233,p,1999-02-03,Chronische mit ödematösen Stimmlippen,1619,1955-07-19,w,Laryngitis
+1235,p,1999-02-03,"Akute, mit Auflagerungen",1621,1945-11-21,m,Laryngitis
+1237,p,1999-02-03,Akute mit maßivem Ödem,1623,1953-07-08,m,Laryngitis
+1246,p,1999-02-17,Abklingende bei chronischer Laryngitis ,1621,1945-11-21,m,Laryngitis
+1248,p,1999-02-24,"Chronische Laryngitis. Sehr ausgeprägt bei extremem früherem Nikotinabusus, mehr als 40/die",1634,1939-05-11,w,Laryngitis
+1257,p,1999-03-03,Chronische,1643,1966-12-16,w,Laryngitis
+1259,p,1999-03-03,"Chronische Laryngitis, Alte mit beiseitig unregelmäßigen Stimmlippen, Kausale Therapie vorgesehen mit Kürettage",1645,1951-04-05,m,Laryngitis
+1260,p,1999-03-03,"Tendenz zur Hyperfunktion, Gesangstätigkeit",1649,1969-02-19,w,Laryngitis
+1264,p,1999-03-03,Beide Stimmlippen mit gleichmäßigem Schweregrad; Aryregion leicht gerötet; z.B. Carotisdysregulation,1646,1933-10-23,m,Laryngitis
+1265,p,1999-03-10,Chronische,1652,1950-02-11,w,Laryngitis
+1269,p,1999-03-10,Chronische ,1311,1940-03-25,m,Laryngitis
+1274,p,1999-03-17,"Chronisch hyperplastisch, beidseitiges Reinke-Ödem ",1617,1961-06-08,w,Laryngitis
+1283,p,1999-03-24,"Chronische, unregelmäßiges Schwingungsbild",1669,1962-06-30,m,Laryngitis
+1295,p,1999-04-14,"Subakut, asymmetrisches Schwingungsbild",1680,1957-06-13,w,Laryngitis
+1300,p,1999-04-21,Subakute mit sehr unregelmäßigem Schwingungsbild,1685,1968-10-03,w,Laryngitis
+1301,p,1999-04-21,Subakute Form,1686,1939-01-25,m,Laryngitis
+1307,p,1999-04-21,Ausgeprägte chronische Form,1692,1950-07-06,m,Laryngitis
+1311,p,1999-04-28,"Chronische, bei früherem Nikotinabusus (60 die), beidseitig Stimmlippen verdeckt, sehr enges Schwingungsbild",1697,1946-03-11,w,Laryngitis
+1315,p,1999-04-29,"Ausgeprägte chronischeForm, sehr unregelmäßiges Schwingungsbild, Taschenfaltenbeteiligung",1693,1942-01-09,m,Laryngitis
+1388,p,1999-06-02,Chronische mit asymmetrischem Schwingungsbild,1739,1942-12-20,w,Laryngitis
+1404,p,1999-06-16,Chronische,1755,1940-04-24,w,Laryngitis
+1405,p,1999-06-16,"Chronische, stroboskopisch unregelmäßiges Schwingungsbild",1756,1963-06-13,w,Laryngitis
+1414,p,1999-06-23,Chronische,1765,1939-04-22,m,Laryngitis
+1418,p,1999-06-23,"Ohne Kompensation links, keine stroboskopische Restbeweglichkeit, Chronische Laryngitis",1771,1930-12-08,w,Laryngitis
+1426,p,1999-06-30,"Chronische, hyperplastisch",1776,1953-04-03,m,Laryngitis
+1436,p,1999-08-18,"Chronische, Zustand nach Abtragung des Ödems, zudem alte Rekurrensparese links",1785,1934-04-12,w,Laryngitis
+1440,p,1999-08-18,"Chronische, ausgeprägt ",1756,1963-06-13,w,Laryngitis
+1447,p,1999-08-25,"Chronische, hyperplastisch, Rückbildung des Ödems, Verlaufskontrolle, Vorbefunde vorhanden",1617,1961-06-08,w,Laryngitis
+1456,p,1999-09-08,"Subakut, mit asymmetrischem Schwingungsbild",1804,1977-05-04,m,Laryngitis
+1463,p,1999-09-15,"Chronische, mit unregelmäßigem eher weitem Schwingungsbild",1811,1928-01-03,m,Laryngitis
+1472,p,1999-10-20,"Chronische Laryngitis, ausgeprägte Form mit Ca in situ, Zustand nach Stütze",1636,1927-01-30,m,Laryngitis
+1554,p,1999-12-08,Chronische Laryngitis mit hypotonem unregelmäßigem Schwingungsbild,1498,1949-09-24,m,Laryngitis
+1567,p,2000-01-05,"Chronische, Zustand nach Abtragung von Leukoplakien am Hypopharynx; 2. Aufnahme nach OP",1844,1948-08-29,m,Laryngitis
+1578,p,2000-01-12,"Sicca, ausgeprägt, mit Fibrin, kein phonatorischer Stillstand",1884,1954-11-09,m,Laryngitis
+1591,p,2000-01-26,"Beginnend, Laryngitis chronisch, Nikotinabusus",1891,1950-02-15,w,Laryngitis
+1599,p,2000-02-02,"Zustand danach, jetzt praktisch vollkommen zurückgebildet",1899,1967-05-16,m,Laryngitis
+1610,p,2000-02-09,"Beidseitig, beginnend, Laryngitis chronisch",1910,1955-07-15,w,Laryngitis
+1613,p,2000-02-09,"Chronische Laryngitis; Diplophonie, Frequenzperturbationen",1913,1963-08-23,m,Laryngitis
+1614,p,2000-02-16,"Chronische Laryngitis, Verlaufskontrolle ",1311,1940-03-25,m,Laryngitis
+1617,p,2000-02-16,"Chronische Laryngitis, ohne stroboskop. Stillstand",1917,1941-07-20,m,Laryngitis
+1629,p,2000-02-23,"Chronische, Nikotinabusus, kein phonatorischer Stillstand",1928,1949-01-08,m,Laryngitis
+1665,p,2000-04-05,Chronische mit beids. Leukoplakie ,1928,1949-01-08,m,Laryngitis
+1780,p,2000-08-09,Laryngitis gastrica und Hypotonie ,1314,1943-11-21,m,Laryngitis
+1783,p,2000-08-16,"Chronische Laryngitis m. Leukoplakie, kein phonatorischer Stillstand",2049,1945-03-23,m,Laryngitis
+1795,p,2000-09-20,"Chronische, mit unregelmäßigen Amplituden",2059,1965-12-29,m,Laryngitis
+1796,p,2000-09-20,Ausgeprägte Form,2061,1931-09-13,m,Laryngitis
+1806,p,2000-10-18,"Chronische, mit zarter Leukoplakie; R2 B0 H2",2072,1973-09-03,w,Laryngitis
+1809,p,2000-10-25,Akute; transsexuell,2074,1968-10-28,w,Laryngitis
+1930,p,2001-01-24,Chronische Form mit stark asymmetrischem Schwingungsbild,1311,1940-03-25,m,Laryngitis
+1940,p,2001-02-07,"Chronische Laryngitis, kein stroboskopischer Stillstand",2152,1945-10-15,w,Laryngitis
+1953,p,2001-02-21,Bei ausgebildeter Singstimme,2163,1973-08-14,m,Laryngitis
+1965,p,2001-03-07,Subakut mit strobosk. sehr unregelmäßigem Schwingungsbild,2175,1933-02-01,w,Laryngitis
+1973,p,2001-03-14,Chronisch hyperplastische Form mit ödematösen Stimmlippen und unregelmäßigem Schwingungsbild,2183,1941-11-26,m,Laryngitis
+1978,p,2001-03-14,Ausgeprägte Form ,2189,1948-10-17,m,Laryngitis
+1987,p,2001-03-28,Chronische Laryng.; Asymmetrie nach Leukoplakieabtragung,2197,1952-06-11,m,Laryngitis
+2003,p,2001-04-04,Laryngitis subglottisch,2212,1923-08-25,m,Laryngitis
+2012,p,2001-05-09,Chronische Laryngitis und ausgeprägte hyperf. Dysphonie,2220,1951-12-02,w,Laryngitis
+2021,p,2001-05-16,Ausgeprägte chronische Form,2228,1950-04-19,w,Laryngitis
+2028,p,2001-05-23,Leichte Form der Laryngitis mit mäßiger Dysphonie,2236,1965-05-09,m,Laryngitis
+2075,p,2001-08-01,"Leukoplakie li, ohne phonatorischen Stillstand; chron. Laryng.",2267,1947-03-12,m,Laryngitis
+2079,p,2001-08-08,Ausgprägt chron. Laryngitis mit Leukoplakie,2272,1975-04-30,w,Laryngitis
+2097,p,2001-08-29,Chron. Laryngitis,2283,1970-12-14,w,Laryngitis
+2101,p,2001-09-05,"Chron. Laryngitis mit beids. Leukoplakie, re > li",2290,1959-12-06,m,Laryngitis
+2110,p,2001-09-12,"Laryngitis ist chronisch mit bds. beginnendem Reinke-Ödem, Nikotinabusus",2299,1924-01-26,w,Laryngitis
+2120,p,2001-09-26,Chronische Laryngitis mit starker Schleimansammlung um den Kehlkopf,1307,1935-03-09,m,Laryngitis
+2126,p,2001-09-26,Chronische Laryngitis mit hyperfunktioneller Komponente,2315,1936-06-05,m,Laryngitis
+2128,p,2001-09-26,Chronische Form der Laryngitis; Zustand nach Stütze,2317,1938-09-10,w,Laryngitis
+2156,p,2001-11-21,Abklingender akuter Schub einer chronischen Laryngitis,2353,1968-07-20,m,Laryngitis
+2191,p,2001-12-12,Chronische Form mit akutem Ausbruch,2368,1963-01-13,m,Laryngitis
+2219,p,2002-01-02,Laryngitis klingt ab,2380,1939-06-20,m,Laryngitis
+2242,p,2002-01-23,"Zustand nach Abtragung, chronische Laryngitis",2403,1966-06-02,w,Laryngitis
+2276,p,2002-02-06,Chronische Form,2420,1928-08-29,w,Laryngitis
+2296,p,2002-02-27,Chronisch,1311,1940-03-25,m,Laryngitis
+2301,p,2002-02-27,Chronische Form,2435,1955-01-02,m,Laryngitis
+2305,p,2002-03-06,Chronisch hyperplastische Laryngitis mit beids. Reinke-Ödem,2439,1935-04-05,m,Laryngitis
+2315,p,2002-03-13,Chronisch hyperplastische Form,2449,1932-11-10,w,Laryngitis
+2321,p,2002-03-13,Chronische Form,2455,1941-05-09,m,Laryngitis
+2328,p,2002-04-24,Chronische,2462,1937-09-21,m,Laryngitis
+2351,p,2002-05-22,Organische Dysphonie bei chron Laryngitis und Zustand n. Leukoplakieabtragung,1931,1943-03-07,m,Laryngitis
+2370,p,2002-07-03,"Chronische Laryngitis Zustand n. Leukoplakieabtragung, leichte Hyperfunktion",2504,1954-02-07,w,Laryngitis
+2404,p,2002-09-04,Chronisch; Zustand nach 2x Stütze; Verdacht auf phonatorischen Stillstand re,2538,1950-02-03,m,Laryngitis
+2424,p,2002-10-02,Chronisch,2558,1952-07-25,m,Laryngitis
+2435,p,2002-10-30,Chronisch,2569,1946-06-22,m,Laryngitis
+2443,p,2002-11-13,Chronisch; Zustand nach Leukoplakieabtragung,2577,1952-09-29,m,Laryngitis
+2487,p,2003-06-04,Zustand nach akuter Form der Laryngitis,2621,1932-06-16,m,Laryngitis
+2510,p,2003-11-05,Chronische Laryngitis mit hyperfunktioneller Komponente,2644,1963-12-10,w,Laryngitis
+2511,p,2003-11-05,Chronisch,2645,1949-06-23,m,Laryngitis
+2514,p,2003-11-05,"Chronisch, leichte Ödeme beidseitig mit Hyperfunktion",2648,1954-05-25,w,Laryngitis
+2516,p,2003-11-05,Links,2650,1949-06-25,w,Laryngitis
+2521,p,2003-11-12,Chronische Laryngitis; organische hyperfunktionelle Dysphonie,2655,1951-12-08,m,Laryngitis
+2525,p,2003-11-19,"Chronische Laryngitis, Zustand nach Polypabtragung",2659,1933-05-31,m,Laryngitis
+2541,p,2003-12-03,Chronisch,2675,1940-12-30,m,Laryngitis
+2542,p,2003-12-03,Akute Form der Laryngitis,2676,1949-04-02,m,Laryngitis
+2555,p,2003-12-17,"Chronische Form, Zustand nach Stütze",2691,1951-07-20,m,Laryngitis
+2556,p,2003-12-17,Chronische Form,2689,1940-03-09,m,Laryngitis
+2567,p,2004-03-03,"Chronische, verstärkte Adduktion",2701,1934-01-14,m,Laryngitis
+2574,p,2004-03-10,Zustand danach,2708,1934-07-10,m,Laryngitis
+2578,p,2004-03-17,Chronisch hyperplastisch,2712,1959-11-11,w,Laryngitis
+2582,p,2004-03-24,"Chronisch hyperplastisch, Zustand nach Stütze",2716,1941-12-11,m,Laryngitis
+2585,p,2004-03-31,Chronische Form,2719,1941-10-01,m,Laryngitis
+2588,p,2004-04-21,"Chronische Form der Laryngitis, Ödem rechts",2722,1958-12-01,w,Laryngitis
+2600,p,2004-05-05,Chronische Form,2726,1960-12-24,m,Laryngitis
+2602,p,2004-05-12,"Chronische Form, mit ausgeprägter Unregelmäßigkeit in den Schwingungen",2728,1943-09-21,w,Laryngitis
+2605,p,2004-05-12,Chronische Form mit phonatorischem Stillstand li,2731,1944-10-03,m,Laryngitis
+2610,p,2004-06-16,Chronische Laryngitis gastrica?,2736,1930-10-07,w,Laryngitis

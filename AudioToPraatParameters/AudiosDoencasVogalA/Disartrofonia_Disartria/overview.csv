@@ -1,0 +1,20 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+921,p,1998-09-16,"Ausgeprägte laryngale Bewegungsstörung, langsame monotone Prosodie",1513,1957-03-30,m,Dysarthrophonie
+1199,p,1999-01-06,Restsymptomatik ,1513,1957-03-30,m,Dysarthrophonie
+1242,p,1999-02-17,"Bei zentrallaryngaler Bewegungsstörung, Amyotrophe Lateralsklerose (ALS) ",1630,1936-04-29,m,Dysarthrophonie
+1772,p,2000-08-02,Dysarthrophonie mit zentral laryngaler Bewegungsstörung,2036,1923-02-15,w,Dysarthrophonie
+1943,p,2001-02-07,,2130,1962-03-08,m,Dysarthrophonie
+1948,p,2001-02-14,Dysarthrophonie mit hyperfunktionellem Schwingungsbild,2159,1945-05-09,m,Dysarthrophonie
+2001,p,2001-04-04,,2210,1952-03-29,m,Dysarthrophonie
+2032,p,2001-05-30,Restsymptomatik,2240,1940-09-09,m,Dysarthrophonie
+2057,p,2001-06-06,"Restsymptomatik mit Gaumensegelparese li, stark erhöhte mittl. Sprechstimmlage",2246,1975-06-11,m,Dysarthrophonie
+2094,p,2001-08-29,Z.B. Dysarthrophonie,2285,1971-11-24,w,Dysarthrophonie
+2113,p,2001-09-19,Z.B. Glossopharyngeusneuralgie,2302,1950-05-03,m,Dysarthrophonie
+2130,p,2001-10-17,Beginnende Form mit beids. unregelmäßigem Schwingungsbild; primär Dysglossie,2319,1949-01-15,w,Dysarthrophonie
+2223,p,2002-01-02,Bei MS,2384,1941-03-10,w,Dysarthrophonie
+2295,p,2002-02-27,Restsymptomatik bei zentral laryngaler Bewegungsstörung,2429,1935-12-19,m,Dysarthrophonie
+2329,p,2002-04-24,,2463,1927-04-10,m,Dysarthrophonie
+2332,p,2002-04-24,,2466,1947-07-31,m,Dysarthrophonie
+2334,p,2002-05-08,Z.B. ALS,2010,1936-08-03,m,Dysarthrophonie
+2355,p,2002-05-29,"Posttraumatisch, Trachealstenose",1947,1963-05-06,w,Dysarthrophonie
+2390,p,2002-08-21,Bei M. Parkinson,2524,1930-03-22,m,Dysarthrophonie

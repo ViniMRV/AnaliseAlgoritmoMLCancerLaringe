@@ -1,0 +1,3 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+1242,p,1999-02-17,"Bei zentrallaryngaler Bewegungsstörung, Amyotrophe Lateralsklerose (ALS) ",1630,1936-04-29,m,Amyotrophe Lateralsklerose
+2373,p,2002-07-17,Erste Aufnahme nach Botox,1787,1929-09-09,m,Amyotrophe Lateralsklerose

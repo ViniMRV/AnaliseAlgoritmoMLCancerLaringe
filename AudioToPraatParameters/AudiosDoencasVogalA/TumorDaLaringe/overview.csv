@@ -1,0 +1,6 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+940,p,1998-10-14,"Riesiger KK-Tu links, transglottisch, 3-Etagen",1532,1959-11-17,m,Kehlkopftumor
+1670,p,2000-04-12,Ausgeprägter T3/T4 Tumor vor Laryngektomie,1969,1941-09-17,m,Kehlkopftumor
+1942,p,2001-02-07,Großer Rezidivtumor bei Zustand nach Chordektomie,1659,1934-11-01,m,Kehlkopftumor
+1968,p,2001-03-07,"Großer Tumor im re Hypopharynx, re Kehlkopfstarre, Taschenband re infiltriert, re Stimmlippe nicht überschaubar, Fixierter Aryhöcker re",2178,1942-07-05,w,Kehlkopftumor
+2069,p,2001-07-25,,2258,1950-04-04,m,Kehlkopftumor
