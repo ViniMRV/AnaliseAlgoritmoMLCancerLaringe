@@ -1,0 +1,23 @@
+AufnahmeID,AufnahmeTyp,AufnahmeDatum,Diagnose,SprecherID,Geburtsdatum,Geschlecht,Pathologien
+110,p,1998-01-21,"Histologisch gesichertes Carcinoma in situ, jedoch keine echte phonatorische Bewegungseinschränkung; Stütze und Excision der Leukoplakie; asymmetrisches Schwingungsbild",1307,1935-03-09,m,Stimmlippenkarzinom
+500,p,1998-04-22,"Frischer Zustand nach Stütze, starke Fibrinbeläge; Keine Textdatei",1373,1953-07-04,m,Stimmlippenkarzinom
+742,p,1998-05-29,Verdacht auf Stimmlippentumor mit beginnendem phonatorischem Sillstand,1425,1955-03-07,m,Stimmlippenkarzinom
+1048,p,1998-11-11,"Groß, mit komplettem phonatorischem Stillstand",1544,1939-10-29,m,Stimmlippenkarzinom
+1239,p,1999-02-10,"Erste Aufnahme prä OP, heute Stütze mit PE",1625,1941-03-24,m,Stimmlippenkarzinom
+1245,p,1999-02-17,"Rechts in gesamter Länge, mit komplettem phonatorischem Stillstand; erste Aufnahme nach PE",1625,1941-03-24,m,Stimmlippenkarzinom
+1247,p,1999-02-24,"Verdacht, links, begrenzt auf Stimmlippe, vollkommener Stillstand rechts, ausgeprägte Dysphonie",1633,1956-07-13,m,Stimmlippenkarzinom
+1273,p,1999-03-17,"Links, mit phonatorischem Stillstand; Verlaufskontrolle",1659,1934-11-01,m,Stimmlippenkarzinom
+1332,p,1999-05-12,Erster Tag nach laserchirurgischer Chordektomie li ; 2. Aufnahme,1659,1934-11-01,m,Stimmlippenkarzinom
+1341,p,1999-05-19,"Zustand nach laserchirurgischer Behandlung, links noch großer Defekt ; 3. Aufnahme nach Resektion",1659,1934-11-01,m,Stimmlippenkarzinom
+1383,p,1999-05-26,Zustand nach laserchirurgischer Abtragung ; 4. Aufnahme,1659,1934-11-01,m,Stimmlippenkarzinom
+1391,p,1999-06-02,Zustand nach Abtragung ,1659,1934-11-01,m,Stimmlippenkarzinom
+1403,p,1999-06-09,"Links, laserbehandelt, Zustand danach",1659,1934-11-01,m,Stimmlippenkarzinom
+1416,p,1999-06-23,"Links, Verdacht auf CA",1768,1940-04-13,m,Stimmlippenkarzinom
+1428,p,1999-06-30,"Zustand danach, Rezidiv nicht ausschließbar; 11. Aufnahme",1659,1934-11-01,m,Stimmlippenkarzinom
+1451,p,1999-08-25,"Zustand nach laserchirurgischer Abtragung, Verlaufskontrolle, frischer Zustand nach PE/Stütze; 10. Aufn., Logopäd. Therapie abgeschlossen ",1659,1934-11-01,m,Stimmlippenkarzinom
+1458,p,1999-09-08,Zustand nach Tu-Resektion mit fibrinogener Stimmlippe links,1806,1933-01-18,m,Stimmlippenkarzinom
+1465,p,1999-09-15,Zustand nach laserchirurgischer Behandlung ; Verlaufskontrolle,1659,1934-11-01,m,Stimmlippenkarzinom
+1545,p,1999-12-01,"Verdacht, vordere rechte Stimmlippe, beginnender phonatorischer Stillstand; 1. Aufn. vor Stütze (01.12.99)",1851,1932-09-05,m,Stimmlippenkarzinom
+1714,p,2000-05-31,"Verdacht, re, Stimmlippen exophytisch; T2 N0,M0?",1995,1948-11-02,w,Stimmlippenkarzinom
+2343,p,2002-05-15,Zustand nach Abtragung li,2477,1926-12-12,m,Stimmlippenkarzinom
+2467,p,2003-01-22,"Verdacht auf Ca linke Stimmlippe, kein kompletter phonatorischer Stillstand",2601,1931-09-13,m,Stimmlippenkarzinom
